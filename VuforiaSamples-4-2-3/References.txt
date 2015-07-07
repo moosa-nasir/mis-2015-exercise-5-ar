@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/27199177/webview-rendering-html-off-screen-to-know-when-content-is-fully-rendered
+https://developer.vuforia.com/forum/android/using-android-studio-vuforia
+https://developer.vuforia.com/library/articles/Solution/How-to-replace-the-dataset-in-the-Android-Image-Targets-sample
+https://developer.vuforia.com/library/articles/Solution/How-To-Draw-a-2D-image-on-top-of-a-target-using-OpenGL-ES
